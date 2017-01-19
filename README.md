@@ -1,4 +1,5 @@
 # TTOS0100 Ohjelmistosuunnittelu ja testaus
+:construction::construction::construction::construction::construction::construction::construction::construction:
 
 Kurssin repo.
 

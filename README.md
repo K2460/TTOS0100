@@ -4,7 +4,10 @@ Kurssin repo.
 
 ## Alaotsikko
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Finnish_Spitz_600.jpg/250px-Finnish_Spitz_600.jpg)
+| Koirarotu | Kpl |
+|:----------|----:|
+| Suomenpystykorva | 30 |
+| Snautseri | 1200 |
 
 ### Alaotsikko
 

@@ -12,3 +12,5 @@ Kurssin repo.
 ### Alaotsikko
 
 [Koira - wikipedia](https://fi.wikipedia.org/wiki/Koira)
+
+:fish::fish::fish::fish::fish::fish::fish::fish:

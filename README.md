@@ -2,8 +2,7 @@
 :construction::construction::construction::construction::construction::construction::construction::construction:
 
 Kurssin repo.
-/play horn
-
+/play greatjob
 ## Alaotsikko
 
 | Koirarotu | Kpl |

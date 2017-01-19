@@ -8,10 +8,4 @@ asdasdasd
 
 ### Alaotsikko
 
-asdasdasd
-
-#### Alaotsikko
-
-asdasdasdasd
-
-##### Alaotsikko
+[Koira - wikipedia](https://fi.wikipedia.org/wiki/Koira)

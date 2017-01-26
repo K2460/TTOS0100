@@ -18,4 +18,4 @@ Mahdollinen asiakas
 
 ### Välineet ja vehkeet:
 
-Töissä käytössä monipuoliset tietotekniset välineet. Kotona paljon viihde-elektroniikkaa joissa käytetään suoratoistopalveluita. Harrastusmielessä on tehnyt myös joitain kotiautomaatiosovelluksia
+Töissä käytössä pääasiassa matkapuhelin, jolla pitää yllä asiakassuhteita ja sopii tapaamisia. 

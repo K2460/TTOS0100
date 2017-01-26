@@ -1,6 +1,6 @@
-# Profiili X
+# Profiili nro 1
 
-Keksi näitä lisää!
+
 
 ![](https://pickaface.net/assets/images/slides/slide2.png)
 

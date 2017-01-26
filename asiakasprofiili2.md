@@ -1,6 +1,5 @@
-# Profiili X
+# Profiili nro 2
 
-Keksi näitä lisää!
 
 ![](http://st2.depositphotos.com/1070466/7881/v/170/depositphotos_78819886-stock-illustration-vector-businessman-avatar-profile-picture.jpg)
 
